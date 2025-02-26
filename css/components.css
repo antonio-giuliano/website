@@ -1,0 +1,32 @@
+/* Services */
+.service {
+    background: #6a11cb;
+    color: white;
+    padding: 25px;
+    border-radius: 8px;
+    margin: 15px auto;
+    width: 80%;
+    max-width: 400px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Progression */
+.progress-card {
+    background: #f8f9fa;
+    padding: 25px;
+    margin: 15px auto;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.progress-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.progress-card li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
